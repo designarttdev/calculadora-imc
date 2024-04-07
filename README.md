@@ -27,8 +27,8 @@
 ## Sobre o Projeto
 
 <div style="display: flex; gap: 10px; ">
-    <img style="width: 500px; height: auto;" src="https://github.com/designarttdev/calculadora-imc/blob/main/Print.jpg" alt="Primeira tela">
-    <img style="width: 500px; height: auto;" src="https://github.com/designarttdev/calculadora-imc/blob/main/Print2.jpg" alt="Primeira tela">
+    <img style="width: 400px; height: auto;" src="https://github.com/designarttdev/calculadora-imc/blob/main/Print.jpg" alt="Primeira tela">
+    <img style="width: 400px; height: auto;" src="https://github.com/designarttdev/calculadora-imc/blob/main/Print2.jpg" alt="Primeira tela">
 </div>
 
 Uma calculadora simples de ICM.
